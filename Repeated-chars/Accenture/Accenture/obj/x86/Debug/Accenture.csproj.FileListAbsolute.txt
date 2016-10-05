@@ -1,0 +1,5 @@
+C:\Gorkem\Projets\Accenture\Accenture\bin\Debug\Accenture.exe
+C:\Gorkem\Projets\Accenture\Accenture\bin\Debug\Accenture.pdb
+C:\Gorkem\Projets\Accenture\Accenture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Gorkem\Projets\Accenture\Accenture\obj\x86\Debug\Accenture.exe
+C:\Gorkem\Projets\Accenture\Accenture\obj\x86\Debug\Accenture.pdb

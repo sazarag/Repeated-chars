@@ -1,0 +1,12 @@
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\NUnitTest.exe
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\NUnitTest.pdb
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\nunit-console-runner.dll
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\nunit.framework.dll
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\nunit.util.dll
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\nunit.core.interfaces.dll
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\nunit.core.dll
+C:\Gorkem\Projets\Accenture\NUnitTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Gorkem\Projets\Accenture\NUnitTest\obj\x86\Release\NUnitTest.exe
+C:\Gorkem\Projets\Accenture\NUnitTest\obj\x86\Release\NUnitTest.pdb
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\Accenture.exe
+C:\Gorkem\Projets\Accenture\NUnitTest\bin\Release\Accenture.pdb
